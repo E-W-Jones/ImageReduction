@@ -1,8 +1,8 @@
 # Image Reduction
 Astronomical Image Reduction, of simulated CCD/Image combo
-The aim of image reduction is to take a raw image:
+The aim of image reduction is to take a raw image:  
 ![raw image](./images/raw_image.png)  
-And convert it into a form suitable for scientific measurments:
+And convert it into a form suitable for scientific measurments:  
 ![reduced image](./images/reduced_image.png)
 
 In the second image, the star is much more clearly defined, and the image is less noisy. 
