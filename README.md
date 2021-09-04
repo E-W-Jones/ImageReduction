@@ -5,7 +5,7 @@ The aim of image reduction is to take a raw image:
 And convert it into a form suitable for scientific measurments:  
 ![reduced image](./images/reduced_image.png)
 
-In the second image, the star is much more clearly defined, and the image is less noisy. 
+In the second image, the stars are much more clearly defined, and the image is less noisy. 
 
 ## Simulating Images
 Using different techniques and functions from numpy library, different components of an astronomical image are simulated. These are:
